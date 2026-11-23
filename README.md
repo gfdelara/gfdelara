@@ -32,10 +32,12 @@ Aprendo fazendo: todos os projetos abaixo nasceram de uma necessidade real, fora
 
 ## Projetos
 
-**[gfdelara.com.br](https://www.gfdelara.com.br)**
+## Projetos
+
+<a href="https://www.gfdelara.com.br" target="_blank" rel="noopener"><strong>gfdelara.com.br</strong></a>
 Página desenvolvida para apoiar o aprendizado dos meus alunos, reunindo materiais e recursos de estudo em um ambiente digital simples e acessível.
 
-**[acucarememorias.com.br/admin](https://www.acucarememorias.com.br/admin/)**
+<a href="https://www.acucarememorias.com.br" target="_blank" rel="noopener"><strong>acucarememorias.com.br</strong></a>
 Painel administrativo para uma doceria, com gestão de informações e operações do negócio em uma interface própria.
 
 ## Formação contínua
