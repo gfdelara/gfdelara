@@ -35,7 +35,7 @@ Aprendo fazendo: todos os projetos abaixo nasceram de uma necessidade real, fora
 **[gfdelara.com.br](https://www.gfdelara.com.br)**
 Página desenvolvida para apoiar o aprendizado dos meus alunos, reunindo materiais e recursos de estudo em um ambiente digital simples e acessível.
 
-**[acucarememorias.com.br](https://www.acucarememorias.com.br)**
+**[acucarememorias.com.br/admin](https://www.acucarememorias.com.br/admin/)**
 Painel administrativo para uma doceria, com gestão de informações e operações do negócio em uma interface própria.
 
 ## Formação contínua
